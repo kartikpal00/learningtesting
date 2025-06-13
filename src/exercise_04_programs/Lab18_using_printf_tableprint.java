@@ -1,6 +1,6 @@
 package exercise_04_programs;
 
-public class Lab17_using_printf_tableprint {
+public class Lab18_using_printf_tableprint {
     public static void main(String[] args) {
         int a= 9;
         int b= 1;
