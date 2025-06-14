@@ -1,6 +1,6 @@
 package exercise_02_java_basics;
 
-public class Lab14_printf {
+public class Lab024_printf {
     public static void main(String[] args) {
         int a = 10;
         System.out.print("print command print without the new line");

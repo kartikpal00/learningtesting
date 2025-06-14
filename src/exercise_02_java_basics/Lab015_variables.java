@@ -1,6 +1,6 @@
 package exercise_02_java_basics;
 
-public class Lab008_variables {
+public class Lab015_variables {
     public static void main(String[] args) {
            //        ,,,
              //  data_type variable_name = variable_value

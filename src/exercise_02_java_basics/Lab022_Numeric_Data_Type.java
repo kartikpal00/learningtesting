@@ -1,6 +1,6 @@
 package exercise_02_java_basics;
 
-public class Lab12_Numeric_Data_Type {
+public class Lab022_Numeric_Data_Type {
     public static void main(String[] args) {
         byte b = 100;
         // b = 128; no

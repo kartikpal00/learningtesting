@@ -1,9 +1,9 @@
 package exercise_02_java_basics;
 
-public class Lab13_Byte {
+public class Lab023_Byte {
     public static void main(String[] args) {
-        byte b = 10;
+        byte age = 10; // DECIMAL SYSTEM - BASE = 10
         // 10 = binary =1010 ;
-//        byte = 8 bite = 00001010
+//        byte = 8 bitS = 00001010
     }
 }

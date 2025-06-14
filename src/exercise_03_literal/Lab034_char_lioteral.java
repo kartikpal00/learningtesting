@@ -1,6 +1,6 @@
 package exercise_03_literal;
 
-public class Lab16_char_lioteral {
+public class Lab034_char_lioteral {
     public static void main(String[] args) {
         char c1 = 'A'; // A to Z ,a to z , !@#$5^&*()_-+=;
         char c2 = 'B';

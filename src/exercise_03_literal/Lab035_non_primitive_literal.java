@@ -1,6 +1,6 @@
 package exercise_03_literal;
 
-public class Lab17_non_primitive_literal {
+public class Lab035_non_primitive_literal {
     public static void main(String[] args) {
 //        primitive data type - DEFINED by java guys
 //                max , min , size defined

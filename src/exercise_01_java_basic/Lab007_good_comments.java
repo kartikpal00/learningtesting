@@ -1,6 +1,6 @@
 package exercise_01_java_basic;
 
-public class Lab006_good_comments {
+public class Lab007_good_comments {
     /*Author - pramod
     course - ATB13X
     this is a documentation comments

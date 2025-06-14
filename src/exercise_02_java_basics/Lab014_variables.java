@@ -1,6 +1,6 @@
 package exercise_02_java_basics;
 
-public class Lab007_variables {
+public class Lab014_variables {
     public static void main(String[] args) {
 
     }
