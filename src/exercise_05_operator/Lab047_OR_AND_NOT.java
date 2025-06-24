@@ -1,6 +1,6 @@
 package exercise_05_operator;
 
-public class Lab047_OR_AND_NOT {
+public class    Lab047_OR_AND_NOT {
     public static void main(String[] args) {
         // || --> OR
 
