@@ -2,7 +2,7 @@ package exercise_15_Fundtions;
 
 import java.util.Scanner;
 
-public class Lab132_function_arth {
+public class Lab_132_function_arth {
     public static void main(String[] args) {
         // Create a Function of Sub, Sum, Mul and Div
         // with parameter, a, b (take the parameter from the User)
