@@ -2,7 +2,7 @@ package exercise_14_Do_While;
 
 import java.util.Scanner;
 
-public class Task_Check_prime_number {
+public class Task_29_Check_prime_number {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
